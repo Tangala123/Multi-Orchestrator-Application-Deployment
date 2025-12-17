@@ -21,4 +21,3 @@ spec:
           env:
             - name: PLATFORM
               value: "EKS-Kubernetes"
-``
